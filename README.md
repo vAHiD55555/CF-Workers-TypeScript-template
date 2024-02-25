@@ -1,3 +1,6 @@
+[![Deploy](https://github.com/vAHiD55555/CF-Workers-TypeScript-template/actions/workflows/deploy.yml/badge.svg)](https://github.com/vAHiD55555/CF-Workers-TypeScript-template/actions/workflows/deploy.yml)
+
+
 # Cloudflare Workers Typescript Server & Client Template
 
 [![GitHub Actions Test](https://github.com/GregBrimble/cf-workers-typescript-template/workflows/Test/badge.svg)](https://github.com/GregBrimble/cf-workers-typescript-template/actions?query=workflow%3ATest)
