@@ -12,3 +12,6 @@ entry-point = "./packages/worker"
 
 [env.production]
 name = "script-name"
+
+[placement]
+mode = "smart"
